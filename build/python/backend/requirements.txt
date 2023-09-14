@@ -1,7 +1,7 @@
 beautifulsoup4==4.8.2
 boltons==20.1.0
 esprima==4.0.1
-grpcio==1.27.2
+grpcio==1.53.0
 grpcio-tools==1.27.2
 html5lib==1.0.1
 inflection==0.3.1
