@@ -12,7 +12,7 @@ lxml==4.5.0
 msoffcrypto-tool==4.10.1
 olefile==0.46
 oletools==0.55.1
-M2Crypto==0.35.2
+M2Crypto==0.41.0
 pdfminer.six==20200124
 pefile==2019.4.18
 pgpdump3==1.5.2
